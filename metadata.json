@@ -1,0 +1,6 @@
+{
+  "name": "BABU AI - JARVIS Voice Assistant",
+  "description": "Futuristic JARVIS-inspired real-time voice assistant powered by Gemini Live with responsive animated orb and Firebase authentication.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
